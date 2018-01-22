@@ -1,0 +1,12 @@
+{
+  "name": "mimiaka",
+  "version": "0.0.1",
+  "description": "Common Library for Mimiaka",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ICHIKAWA, Yuji",
+  "license": "MIT"
+}
